@@ -1,0 +1,10 @@
+{
+  "name": "forbeslindesay-comic-sans",
+  "description": "Make all your pages Comic Sans... Inspired by http://youtu.be/OBibXwwLBts (P.S. intended as a joke)",
+  "version": "0.0.1",
+  "keywords": [],
+  "styles": [
+    "comic-sans.css"
+  ],
+  "dependencies": {}
+}
